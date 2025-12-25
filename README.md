@@ -1,13 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Dopa%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Estudiante+de+Tecnología+🚀;Apasionado+por+la+IA+🤖;Amante+del+Código+💻;Siempre+Aprendiendo+📚"/>
+  <img src="https://readme-typing-svg.demolab.com font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Estudiante+de+Tecnología+🚀;Apasionado+por+la+IA+🤖;Amante+del+Código+💻;Siempre+Aprendiendo+📚" alt="Typing SVG" />
 </div>
-
 <br>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 </div>
