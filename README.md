@@ -55,7 +55,7 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ### Aprendiendo Actualmente
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -70,12 +70,12 @@ me.say_hi()
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xd0pa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xd0pa&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xd0pa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 ---
@@ -151,5 +151,5 @@ graph LR
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=xd0pa&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
 </div>
