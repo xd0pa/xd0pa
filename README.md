@@ -80,7 +80,7 @@ me.say_hi()
 
 ---
 
-## 🎯 Objetivos 2025
+## 🎯 Objetivos 2026
 
 <table align="center">
   <tr>
@@ -90,7 +90,7 @@ me.say_hi()
       <sub>proyectos open source</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80"/><br>
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajMwY3BnN3dkdnYyeXc0dGpoaHYyMmp5dDMwZGJpeDY0OWp4YndyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LNiNkrJKhUaA6BaI2O/giphy.gif" width="80"/><br>
       <b>Dominar</b><br>
       <sub>Machine Learning</sub>
     </td>
